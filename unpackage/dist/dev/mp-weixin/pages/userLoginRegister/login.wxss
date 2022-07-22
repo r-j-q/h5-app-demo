@@ -1,0 +1,57 @@
+
+.bg_img {
+
+	background-size: 100% 100%;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
+.loginContent {
+	padding: 20px;
+}
+.loginTop {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 40px;
+	margin-bottom: 20px
+}
+.loginButtom {
+	margin-top: 40px;
+	font-size: 36rpx
+}
+.loginButtom button {
+	border-radius: 100rpx;
+}
+.loginImg {
+	width: 70%;
+	height: 140rpx;
+}
+.loginContent0 {
+	font-size: 38rpx;
+	color: #423831;
+	font-weight: 700;
+	margin-bottom: 20rpx
+}
+.loginContent1 {
+	font-size: 30rpx;
+	color: #a2a2a2;
+}
+ .u-button--disabled {
+	opacity: 1 !important;
+}
+.loginAccount {
+	margin-top: 10px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-end;
+}
+.margin_button_top_40 {
+	margin: 80rpx 0;
+}
+.textLine {
+	text-decoration: underline;
+}
+

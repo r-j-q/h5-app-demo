@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": false,
+  "navigationBarTitleText": "我的附件",
+  "usingComponents": {
+    "images-list": "/components/imagesList/index"
+  }
+}

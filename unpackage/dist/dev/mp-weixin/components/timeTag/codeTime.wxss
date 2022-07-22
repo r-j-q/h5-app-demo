@@ -1,0 +1,37 @@
+
+.all-content-sttyle {
+
+	display: flex;
+	flex-wrap: nowrap;
+}
+.left-content-style {
+	margin-right: 40px;
+}
+.three-content-style {
+	background-color: white;
+	border-radius: 10rpx;
+	padding: 20rpx;
+	margin-top: 40rpx;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #fff;
+}
+.btn-content-style {
+	background-color: #1989fa;
+	font-size: 28rpx;
+	width: 160rpx;
+
+	color: white;
+	font-weight: 600;
+}
+.get-content-style {
+	background-color:#1989fa;
+	height: 70rpx;
+	line-height: 70rpx;
+	color: white;
+	border-radius: 10rpx;
+	padding: 0 20rpx;
+}
+

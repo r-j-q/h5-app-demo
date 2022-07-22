@@ -1,0 +1,1 @@
+<view class="container data-v-3464a4da"><block wx:for="{{noticeCardLists}}" wx:for-item="item" wx:for-index="index" wx:key="index"><message vue-id="{{'7f527358-1-'+index}}" item="{{item}}" isActive="{{true}}" class="data-v-3464a4da" bind:__l="__l"></message></block></view>

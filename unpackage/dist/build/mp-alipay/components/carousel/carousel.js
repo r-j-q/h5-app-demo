@@ -1,0 +1,10 @@
+;my.defineComponent || (my.defineComponent = Component);(my["webpackJsonp"]=my["webpackJsonp"]||[]).push([["components/carousel/carousel"],{"3b52":function(t,n,a){"use strict";a.r(n);var o=a("6892"),c=a.n(o);for(var e in o)"default"!==e&&function(t){a.d(n,t,(function(){return o[t]}))}(e);n["default"]=c.a},6892:function(t,n,a){"use strict";(function(t){Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var a={name:"carousel",props:{swpieItems:Array},data:function(){return{background:["color1","color2","color3"],indicatorDots:!0,autoplay:!0,interval:2e3,duration:500}},methods:{getUrl:function(t){return"https://ccc.wangwanglive.com"+t},tao:function(n,a){a?a?t.navigateToMiniProgram({appId:a,path:n,success:function(t){console.log("打开成功",t)},fail:function(t){console.log(t)}}):t.navigateTo({url:n}):my.ap.navigateToAlipayPage({path:n,appParams:{},success:function(t){},fail:function(t){my.alert({content:"失败："+JSON.stringify(t)})}})}}};n.default=a}).call(this,a("c11b")["default"])},"78b7":function(t,n,a){"use strict";var o=a("8b8c"),c=a.n(o);c.a},"7a72":function(t,n,a){"use strict";a.r(n);var o=a("c02b"),c=a("3b52");for(var e in c)"default"!==e&&function(t){a.d(n,t,(function(){return c[t]}))}(e);a("78b7");var r,u=a("f0c5"),i=Object(u["a"])(c["default"],o["b"],o["c"],!1,null,null,null,!1,o["a"],r);n["default"]=i.exports},"8b8c":function(t,n,a){},c02b:function(t,n,a){"use strict";var o,c=function(){var t=this,n=t.$createElement,a=(t._self._c,t.__map(t.swpieItems,(function(n,a){var o=t.__get_orig(n),c=t.getUrl(n.pic);return{$orig:o,m0:c}})));t.$mp.data=Object.assign({},{$root:{l0:a}})},e=[];a.d(n,"b",(function(){return c})),a.d(n,"c",(function(){return e})),a.d(n,"a",(function(){return o}))}}]);
+;(my["webpackJsonp"] = my["webpackJsonp"] || []).push([
+    'components/carousel/carousel-create-component',
+    {
+        'components/carousel/carousel-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('c11b')['createComponent'](__webpack_require__("7a72"))
+        })
+    },
+    [['components/carousel/carousel-create-component']]
+]);

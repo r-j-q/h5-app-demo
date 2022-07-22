@@ -1,0 +1,1 @@
+<view class="qrcode"><block a:if="{{img!=''}}"><image class="image" style="{{'width:'+(size+'px')+';'+('height:'+(size+'px')+';')}}" src="{{img}}"></image></block><view class="qrcode-title">请扫码支付</view></view>

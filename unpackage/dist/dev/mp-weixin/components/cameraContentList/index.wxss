@@ -1,0 +1,30 @@
+
+.content_list_style_index.data-v-31656cea {
+	width: 240rpx;
+	height: 240rpx;
+	overflow: hidden;
+	border-radius: 16rpx;
+}
+.content_list_style_index image.data-v-31656cea {
+	width: 100%;
+	height: 100%;
+}
+.flex-1.data-v-31656cea {
+	flex: 1;
+}
+.tag-1.data-v-31656cea {
+	width: 100rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	text-align: center;
+	border-radius: 10rpx;
+}
+.b-1-style.data-v-31656cea {
+	width: 180rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	text-align: center;
+	border: 1px solid #3FB4C9;
+	border-radius: 30rpx;
+}
+

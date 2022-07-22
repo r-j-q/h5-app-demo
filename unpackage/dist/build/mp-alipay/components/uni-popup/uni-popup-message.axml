@@ -1,0 +1,1 @@
+<view class="{{(('uni-popup-message data-v-54b3772b')+' '+('uni-popup__'+[type]))}}"><icon class="icon data-v-54b3772b" type="warn" size="16"></icon><text class="{{(('uni-popup-message-text data-v-54b3772b')+' '+('uni-popup__'+[type]+'-text'))}}">{{message}}</text></view>

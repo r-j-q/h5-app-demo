@@ -1,0 +1,101 @@
+{
+	"pages": [{
+			"path": "pages/tab/index/index",
+			"style": {
+				"navigationBarTitleText": "心灵照相机",
+				// "navigationBarBackgroundColor": "black",
+				"navigationBarTextStyle": "black",
+				"onReachBottomDistance": 200
+				 
+			}
+		},
+		{
+			"path": "pages/tab/vance/index",
+			"style": {
+				"enablePullDownRefresh": false,
+				"navigationBarTitleText": "Stock Vane",
+				// "navigationBarBackgroundColor": "white",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/tab/weath/index",
+			"style": {
+				"enablePullDownRefresh": false,
+				"navigationBarTitleText": "Wealth Quarterly Guide",
+				// "navigationBarBackgroundColor": "white",
+				"navigationBarTextStyle": "white"
+			}
+		},
+
+		{
+			"path": "pages/userLoginRegister/login",
+			"style": {
+				"enablePullDownRefresh": false,
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom"
+			}
+		},
+
+		{
+			"path": "pages/userLoginRegister/register",
+			"style": {
+				"enablePullDownRefresh": false,
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom"
+			}
+		},
+
+		{
+			"path": "pages/tab/mine/index",
+			"style": {
+				"enablePullDownRefresh": false,
+				"navigationBarTitleText": "Me",
+				// "navigationBarBackgroundColor": "black",
+				"navigationBarTextStyle": "black"
+			}
+		} 
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "心灵相机",
+		"navigationBarBackgroundColor": "#fff",
+		"backgroundColor": "#F5F5F5",
+		"onReachBottomDistance": 10,
+		"rpxCalcMaxDeviceWidth": 1024,
+		"rpxCalcBaseDeviceWidth": 375,
+		"rpxCalcIncludeWidth": 750
+	},
+	"tabBar": {
+		"color": "#776f86",
+		"selectedColor": "#3ce5bc",
+		"backgroundColor": "#fff",
+		"borderStyle": "black",
+		"list": [{
+				"pagePath": "pages/tab/index/index",
+				"text": "量表测试",
+				"iconPath": "static/images/wealth.png",
+				"selectedIconPath": "static/images/wealthActive.png"
+			},
+
+			{
+				"pagePath": "pages/tab/mine/index",
+				"text": "个人中心",
+				"iconPath": "static/images/my.png",
+				"selectedIconPath": "static/images/my-active.png"
+			}
+
+		]
+	}, 
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	"condition": {
+		"current": 0,
+		"list": [{
+			"name": "",
+			"path": "",
+			"query": ""
+		}]
+	}
+}

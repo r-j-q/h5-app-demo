@@ -1,0 +1,36 @@
+
+.data-v-4844d8f2 .uni-searchbar__box {
+	height: 50px;
+}
+.data-v-4844d8f2 .uni-searchbar__cancel {
+	line-height: 50px;
+}
+.content_app_style_content.data-v-4844d8f2 {
+	min-height: 100vh;
+	overflow-y: scroll;
+}
+.data-v-4844d8f2 .uni-swiper-dot.uni-swiper-dot-active {
+	background-color: #fff;
+	background: #fff;
+}
+.tab-list-style-view.data-v-4844d8f2 {
+	color: #B2620A;
+	width: 94%;
+	margin: 0 auto;
+	padding: 1rpx;
+}
+.text-aligin-center.data-v-4844d8f2 {
+	text-align: center;
+}
+.content-fixed-style.data-v-4844d8f2 {
+	width: 750rpx;
+	height: 250rpx;
+	position: fixed;
+	top: 80rpx;
+
+	top: 0rpx;
+
+	background-color: #fff;
+	z-index: 99;
+}
+

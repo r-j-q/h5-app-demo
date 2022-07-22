@@ -1,0 +1,1 @@
+<block wx:if="{{isLook}}"><view class="pickerBackground"><picker value="{{index}}" range="{{array}}" data-event-opts="{{[['change',[['bindPickerChange',['$event']]]]]}}" bindchange="__e"><view class="uni-input">{{"222"+array[index]}}</view></picker></view></block>

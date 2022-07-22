@@ -1,0 +1,8 @@
+{
+  "enablePullDownRefresh": false,
+  "navigationBarTitleText": "录入个人资料",
+  "usingComponents": {
+    "top-view": "/components/personal/index",
+    "person-inpt": "/components/personal/personInpt"
+  }
+}

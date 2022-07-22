@@ -1,0 +1,41 @@
+
+.pic_area {
+	height: 2.5rem;
+	line-height: 2.5rem;
+	border-radius: 20px;
+	border: 1px solid var(--theme-color);
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	/* margin-left: 40rpx;
+	margin-right: 40rpx; */
+}
+.pic_area_input {
+	width: 100%;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.pic_area_input input {
+	width: 100%;
+}
+input {
+	border: 0;
+	padding: 0;
+	outline: none;
+	height: 30px;
+	font-size: 1em;
+	margin: 0 10px;
+	text-align: center;
+}
+input::-webkit-input-placeholder {
+	text-align: center;
+	font-size: 1em;
+}
+

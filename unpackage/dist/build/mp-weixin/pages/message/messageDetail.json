@@ -1,0 +1,8 @@
+{
+  "enablePullDownRefresh": false,
+  "navigationBarTitleText": "消息详情",
+  "usingComponents": {
+    "message-upload": "/components/message/messageUpload",
+    "messageindex": "/components/message/messageindex"
+  }
+}

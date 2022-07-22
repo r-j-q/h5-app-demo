@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "菲龙网充充充",
+  "usingComponents": {
+    "carousel": "/components/carousel/carousel",
+    "grid": "/components/grid/grid",
+    "paymentlist": "/components/paymentlist/paymentlist",
+    "notice": "/components/notice/notice"
+  }
+}

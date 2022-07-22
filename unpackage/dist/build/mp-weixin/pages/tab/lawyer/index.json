@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "律师",
+  "backgroundColor": "#1296db",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#1296db",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

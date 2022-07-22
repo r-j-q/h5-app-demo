@@ -1,0 +1,11 @@
+
+.grid navigator.data-v-dc297b78{
+		width: 50%;
+		display: inline-block;
+}
+image.data-v-dc297b78{
+	width:100%;
+	height: 180rpx;
+	objectfill:cover;
+}
+

@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/tab/index/index",
+    "pages/tab/vance/index",
+    "pages/tab/weath/index",
+    "pages/userLoginRegister/login",
+    "pages/userLoginRegister/register",
+    "pages/tab/mine/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "心灵相机",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#F5F5F5",
+    "onReachBottomDistance": 10,
+    "rpxCalcMaxDeviceWidth": 1024,
+    "rpxCalcBaseDeviceWidth": 375,
+    "rpxCalcIncludeWidth": 750
+  },
+  "tabBar": {
+    "color": "#776f86",
+    "selectedColor": "#3ce5bc",
+    "backgroundColor": "#fff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/tab/index/index",
+        "text": "量表测试",
+        "iconPath": "static/images/wealth.png",
+        "selectedIconPath": "static/images/wealthActive.png"
+      },
+      {
+        "pagePath": "pages/tab/mine/index",
+        "text": "个人中心",
+        "iconPath": "static/images/my.png",
+        "selectedIconPath": "static/images/my-active.png"
+      }
+    ]
+  },
+  "permission": {},
+  "uniStatistics": {
+    "enable": false
+  },
+  "usingComponents": {}
+}

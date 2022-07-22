@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": false,
+  "navigationBarTitleText": "上传附件",
+  "usingComponents": {
+    "images-list": "/components/imagesList/index",
+    "message-upload": "/components/message/messageUpload",
+    "up-load-images": "/components/message/upLoadImages"
+  }
+}

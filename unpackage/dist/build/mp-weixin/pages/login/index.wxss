@@ -1,0 +1,1 @@
+.loginContent{padding:20px}.loginTop{display:flex;flex-direction:row}.loginButtom{margin-top:40px}.loginButtom button{border-radius:100rpx}.loginImg image{width:2rem;height:2.4rem;margin-right:.74667rem}.loginContent0{font-size:38rpx;color:#423831;font-weight:700;margin-bottom:20rpx}.loginContent1{font-size:30rpx;color:#a2a2a2}

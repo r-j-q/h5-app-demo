@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/tab/index/index",
+    "pages/login/index",
+    "pages/message/messageDetail",
+    "pages/message/messageImage",
+    "pages/message/uploadAttachments",
+    "pages/login/role",
+    "pages/login/renzhen",
+    "pages/login/personal",
+    "pages/login/enterprise",
+    "pages/tab/case/index",
+    "pages/tab/lawyer/index",
+    "pages/tab/mine/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#F5F5F5",
+    "onReachBottomDistance": 10
+  },
+  "tabBar": {
+    "color": "#bfbfbf",
+    "selectedColor": "#1296db",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/tab/index/index",
+        "text": "消息",
+        "selectedIconPath": "static/images/news-active.png",
+        "iconPath": "static/images/news.png"
+      },
+      {
+        "pagePath": "pages/tab/case/index",
+        "text": "我的",
+        "selectedIconPath": "static/images/case-active.png",
+        "iconPath": "static/images/case.png"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 60000
+  },
+  "permission": {},
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

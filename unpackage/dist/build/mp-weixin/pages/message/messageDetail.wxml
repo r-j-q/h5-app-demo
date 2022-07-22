@@ -1,0 +1,1 @@
+<view class="imagesContentBor data-v-32df7093"><view class="imagesContentd data-v-32df7093"><block wx:for="{{items}}" wx:for-item="item" wx:for-index="index" wx:key="index"><messageindex vue-id="{{'52bda542-1-'+index}}" index="{{index}}" item="{{item}}" isActive="{{true}}" class="data-v-32df7093" bind:__l="__l"></messageindex></block></view></view>

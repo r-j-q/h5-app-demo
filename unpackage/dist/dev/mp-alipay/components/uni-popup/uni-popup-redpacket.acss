@@ -1,0 +1,30 @@
+
+.popupMore.data-v-b0b8cf20{
+	width:240px;
+	height: 600px ;
+	/* padding: 20px; */
+	/* background-color: #fff; */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	border-radius: 30rpx;
+	position: relative;
+}
+.popupMore image.data-v-b0b8cf20{
+	width:100%;
+	height: 500px;
+}
+.icon_clear.data-v-b0b8cf20{
+	position: absolute;
+	top:120px;
+	right:-20px;
+	color:#fff
+}
+
+

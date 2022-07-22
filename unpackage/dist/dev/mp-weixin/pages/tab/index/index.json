@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "心灵照相机",
+  "navigationBarTextStyle": "black",
+  "onReachBottomDistance": 200,
+  "usingComponents": {
+    "luyj-search-bar": "/uni_modules/luyj-search-bar/components/luyj-search-bar/luyj-search-bar",
+    "v-tabs": "/components/v-tabs/v-tabs",
+    "u-loadmore": "/node-modules/uview-ui/components/u-loadmore/u-loadmore",
+    "camera-content-list": "/components/cameraContentList/index"
+  }
+}

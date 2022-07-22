@@ -1,0 +1,69 @@
+
+:root {
+	--theme-color: #b22830;
+}
+
+/* 	font-family: Avenir,
+Helvetica,
+Arial,
+sans-serif;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+text-align: center;
+color: #2c3e50;
+max-width: 750px;
+margin-left: auto;
+margin-right: auto; */
+
+/* 适配PC端CSS */
+:root {
+	--theme-color: #51a7f0;
+	--theme-light:#0B71BA;
+}
+page,
+.container {
+	background-color: #fff;
+	font-size: 14px;
+}
+.pic_area {
+	height: 80rpx !important;
+}
+.swiper-item image {
+	width: 100%;
+	background-repeat: no-repeat !important;
+	background-size: 100% 160px !important
+}
+.recharge_hurg_val {
+	color: ##3296f0 !important;
+}
+button.confirm:hover,button.confirm-light:hover{
+	color: hsla(0, 0%, 100%, .6);
+	background-color: #0b71ba
+}
+button.confirm-light:hover{
+	color: hsla(0, 0%, 100%, .6);
+	background-color: #0a67a9
+}
+.confirm {
+	color: #fff;
+	background-color: var(--theme-color);
+}
+.confirm-light{
+	color:#fff;
+	background-color:var(--theme-light);
+}
+
+/* 	.main .swiper{
+	height: 300rpx;
+} */
+
+
+
+
+
+
+
+
+
+
+

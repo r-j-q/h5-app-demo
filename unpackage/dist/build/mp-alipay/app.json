@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/lifepay/lifepay",
+    "pages/index/index",
+    "pages/rehistory/rehistory",
+    "pages/historycard/historycard",
+    "pages/login/login",
+    "pages/alogin/alogin",
+    "pages/balance/balance"
+  ],
+  "subPackages": [],
+  "window": {
+    "defaultTitle": "uni-app",
+    "titleBarColor": "#fff",
+    "backgroundColor": "#F5F5F5"
+  },
+  "usingComponents": {}
+}

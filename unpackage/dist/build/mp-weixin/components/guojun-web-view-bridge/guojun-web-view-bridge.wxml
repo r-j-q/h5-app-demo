@@ -1,0 +1,1 @@
+<web-view class="vue-ref" src="{{src}}" allow="{{allow}}" sandbox="{{sandbox}}" data-ref="{{webviewRefName}}" data-event-opts="{{[['message',[['message',['$event']]]],['onPostMessage',[['onPostMessage',['$event']]]]]}}" bindmessage="__e" bindonPostMessage="__e"></web-view>

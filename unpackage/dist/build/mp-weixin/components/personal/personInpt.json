@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "comp-input": "/components/compInput/index",
+    "picker-time": "/components/pickerTime/index",
+    "pickers": "/components/picker/index"
+  }
+}

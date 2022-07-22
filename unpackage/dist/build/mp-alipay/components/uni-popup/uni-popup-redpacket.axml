@@ -1,0 +1,1 @@
+<view class="popupMore data-v-91667c7e"><image src="/static/images/redpack.png" mode="aspectFit" data-event-opts="{{[['tap',[['click',['$event']]]]]}}" onTap="__e" class="data-v-91667c7e"></image><icon class="icon_clear data-v-91667c7e" type="clear" size="40" color="rgba(255,255,255,.5)" data-event-opts="{{[['tap',[['close',['$event']]]]]}}" onTap="__e"></icon></view>

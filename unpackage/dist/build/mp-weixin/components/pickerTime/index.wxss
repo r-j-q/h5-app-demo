@@ -1,0 +1,1 @@
+.pickerBackground{background-color:#fff;height:600rpx}.picker-view{width:750rpx;height:600rpx;margin-top:20rpx}.item{height:50px;align-items:center;justify-content:center;text-align:center}.disRowAroundL{color:#3880ff;color:#3880ff}.uni-padding-wrap{padding:20rpx}.disRowAroundR{color:#3880ff;font-size:13px;font-weight:700}
